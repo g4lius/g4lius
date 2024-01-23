@@ -14,6 +14,11 @@
 
 
 ## Skills
+<img src="https://github.com/g4lius/bio/blob/main/Python-logo-notext.svg.png" alt="Python" width="50" height="50">
+<img src="https://github.com/g4lius/bio/blob/main/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
+<img src="link_immagine_html" alt="HTML" width="50" height="50">
+<img src="link_immagine_css" alt="CSS" width="50" height="50">
+
 
 <!---
 g4lius/g4lius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
