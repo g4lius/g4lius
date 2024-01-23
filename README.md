@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Vincenzo
 
----
 
 🎓 I'm a Computer Science student from Italy
 🧠 I learn everything that intrigues me
 
----
 
 ## I also like
 
