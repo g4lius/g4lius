@@ -7,9 +7,9 @@
 
 ## I also like
 
-🏀 Basketball
-🎬 Movies
-👾 eSports
+- 🏀 Basketball
+- 🎬 Movies
+- 👾 eSports
 
 <!---
 g4lius/g4lius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
